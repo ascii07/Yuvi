@@ -55,7 +55,7 @@ const TermsAndConditions = () => {
           </ul>
         </p>
         <p style={styles.section}>
-          Permission to modify, publish, transmit, sell, reproduce, create derivative works or publicly display any content on YUVI11fantasy.world can be requested at info@gamewinner.world.
+          Permission to modify, publish, transmit, sell, reproduce, create derivative works or publicly display any content on YUVI11fantasy.world can be requested at info@gamewinner.today.
         </p>
         <p style={styles.section}>
           The User is solely responsible for any material it uploads, posts, emails, transmits or make available on YUVI11 Fantasy (“User’s Content”). The User ensures that it holds the intellectual property rights in their User’s Content and that it does not infringe any third-party rights. User also agrees not to use or display any names, logos, marks, labels, trademarks, copyrights or intellectual property rights of any third party on YUVI11 Fantasy. User accepts and agrees that YUVI11 Fantasy and its directors, employees, affiliates, and assigns will not be liable for any costs, damages, loss or harm, including litigation costs and counsel fees, arising from any claims by a third party resulting from the display or use of any names, logos, marks, labels, trademarks, copyrights or intellectual property rights on YUVI11 Fantasy through the User’s omissions.
@@ -597,7 +597,7 @@ const TermsAndConditions = () => {
             <li>User’s access to the YUVI11 Fantasy platform;</li>
             <li>User content believed to be obscene or defamatory to the complainant or any other person on behalf of whom the complaint is made;</li>
           </ul>
-          Write to: info@gamewinner.world
+          Write to: info@gamewinner.today
         </p>
         <p style={styles.section}>
           For a complaint to be considered appropriate for action, it must include:
@@ -610,7 +610,7 @@ const TermsAndConditions = () => {
           </ul>
         </p>
         <p style={styles.section}>
-          To file a complaint related to Intellectual Property Rights infringement, send a written notice to: info@gamewinner.world. The complaint must include:
+          To file a complaint related to Intellectual Property Rights infringement, send a written notice to: info@gamewinner.today. The complaint must include:
           <ul style={styles.list}>
             <li>Identification of the copyrighted work believed to be infringed;</li>
             <li>Identification of the infringing material;</li>
@@ -627,7 +627,7 @@ const TermsAndConditions = () => {
         <p style={styles.section}>
           Grievance Redressal Officer:
           <br />Name: AYUSH JAIN
-          <br />Email: info@gamewinner.world
+          <br />Email: info@gamewinner.today
           <br />Address: YUVI11 Fantasy Sports Pvt. Ltd., Accelerator Coworking Space, Ground Floor, MGF Metropolis Mall, Mehrauli-Gurgaon Rd, Gurugram, Haryana 122002
         </p>
         <p style={styles.section}>
@@ -685,7 +685,7 @@ const TermsAndConditions = () => {
 
         <h2 style={styles.subHeader}>20. Miscellaneous</h2>
         <p style={styles.section}>
-          Under the relevant legislation, YUVI11Fantasy is obliged to notify Users of various events. By accepting these Terms and Conditions, the Users give their consent that such notifications issued and posted by YUVI11Fantasy on www.gamewinner.world and YUVI11Fantasy application or conveyed via email, provided by the customer during registration, shall be considered adequate and authorised and shall take effect upon receipt by the customers. YUVI11Fantasy shall not be held liable for any loss of information or failure to notify the User if the User fails to provide accurate and adequate information during registration.
+          Under the relevant legislation, YUVI11Fantasy is obliged to notify Users of various events. By accepting these Terms and Conditions, the Users give their consent that such notifications issued and posted by YUVI11Fantasy on www.gamewinner.today and YUVI11Fantasy application or conveyed via email, provided by the customer during registration, shall be considered adequate and authorised and shall take effect upon receipt by the customers. YUVI11Fantasy shall not be held liable for any loss of information or failure to notify the User if the User fails to provide accurate and adequate information during registration.
         </p>
         <p style={styles.section}>
           YUVI11Fantasy shall not be held responsible for any delay or failure in notifying Users, organising/providing services, features and Contest(s) due to circumstances outside the control of YUVI11Fantasy, including but not limited to acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, network infrastructure failures, strikes, shortages of transportation facilities, fuel, energy, labour or materials or any cancellation of any match related to a Contest. In such events, YUVI11Fantasy reserves the right to cancel any related Contest(s) and to process a relevant refund for all Participants.
@@ -694,16 +694,16 @@ const TermsAndConditions = () => {
           YUVI11Fantasy’s failure to exercise or enforce any right or provision of these Terms and Conditions shall not be deemed a waiver of such right or provision.
         </p>
         <p style={styles.section}>
-          By accepting these Terms and Conditions, Users give their consent that any claim or cause of action arising from or related to the use of www.gamewinner.world and YUVI11Fantasy application or these Terms and Conditions must be filed within thirty (30) days of such claim or cause of action arises, or it will be barred forever.
+          By accepting these Terms and Conditions, Users give their consent that any claim or cause of action arising from or related to the use of www.gamewinner.today and YUVI11Fantasy application or these Terms and Conditions must be filed within thirty (30) days of such claim or cause of action arises, or it will be barred forever.
         </p>
         <p style={styles.section}>
-          These Terms and Conditions, including all incorporated terms, conditions and policies, constitute the entire agreement between the user/(s) and YUVI11Fantasy Fantasy Sports Private Limited, and govern the use of www.gamewinner.world, superseding any prior agreements between the User(s) and YUVI11Fantasy Gaming Private Limited.
+          These Terms and Conditions, including all incorporated terms, conditions and policies, constitute the entire agreement between the user/(s) and YUVI11Fantasy Fantasy Sports Private Limited, and govern the use of www.gamewinner.today, superseding any prior agreements between the User(s) and YUVI11Fantasy Gaming Private Limited.
         </p>
         <p style={styles.section}>
           If any part of these Terms and Conditions defined by YUVI11Fantasy is deemed indefinite, invalid or unenforceable, the remaining provisions shall remain in full force.
         </p>
         <p style={styles.section}>
-          YUVI11Fantasy reserves the right to moderate, restrict or ban the use of YUVI11Fantasy application and www.gamewinner.world for any particular user or generally, under YUVI11Fantasy’s policy from time to time, at its sole and absolute discretion and without prior notice.
+          YUVI11Fantasy reserves the right to moderate, restrict or ban the use of YUVI11Fantasy application and www.gamewinner.today for any particular user or generally, under YUVI11Fantasy’s policy from time to time, at its sole and absolute discretion and without prior notice.
         </p>
         <p style={styles.section}>
           YUVI11Fantasy reserves the right to permanently close or temporarily suspend any features, including Contest(s).
